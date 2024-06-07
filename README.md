@@ -7,7 +7,10 @@
 
 - ✨ I'm 34 years old
 - 🐈‍⬛🐈Cat mother of two beautiful cats
+- 💻 Junior Developer
+- 📷 🎥 📺 🎮 🎨 📖 🎧
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"/>&nbsp;******
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"/>&nbsp;***Gow to reach me***
 
 -  Know a little more about my work in <a href="https://es.linkedin.com/in/carla-mar%C3%ADa-ruiz-iglesias-7a6a50160" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
