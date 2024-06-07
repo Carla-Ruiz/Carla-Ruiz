@@ -1,0 +1,19 @@
+
+<H1> Hi! I'm Carla Ruiz
+  <!----![Cabecera Carla Ruiz](https://www.canva.com/design/DAGHbnCAgtQ/7okfvBCtfjee6ePbPNC4Ng/view)
+
+- 👋 Hi, I’m @Carla-Ruiz
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+
+Carla-Ruiz/Carla-Ruiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+https://www.canva.com/design/DAGHbnCAgtQ/2aplXpshUldM6UexkA7ohg/view?utm_content=DAGHbnCAgtQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+--->
