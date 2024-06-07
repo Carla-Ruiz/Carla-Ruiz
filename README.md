@@ -1,8 +1,8 @@
 
-<H1> Hi! I'm Carla Ruiz
+<H1> Hi! I'm Carla Ruiz 👋</H1>
   <!----![Cabecera Carla Ruiz](https://www.canva.com/design/DAGHbnCAgtQ/7okfvBCtfjee6ePbPNC4Ng/view)
 
-- 👋 Hi, I’m @Carla-Ruiz
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
