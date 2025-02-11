@@ -1,4 +1,4 @@
-[Cabecera Carla Ruiz](https://www.canva.com/design/DAGHbnCAgtQ/7okfvBCtfjee6ePbPNC4Ng/view)
+
 
 <H1> Hi! I'm Carla Ruiz 👋</H1>
 
